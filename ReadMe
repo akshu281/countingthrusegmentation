@@ -1,0 +1,10 @@
+Steps:
+------
+
+1) Use the req.txt file for setting up the environment
+2) Use the command: python demo.py to execute the code
+3) Click on 'Choose Video' button to choose the file and hit 'Process video' button to get the code running
+3) The resulting video is stored in output folder
+
+** Also attached a small video of the running software in the name sample.mp4**
+
